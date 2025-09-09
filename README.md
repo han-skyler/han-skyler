@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=The%20Space%20of%20Jiyoon&fontAlign=50&fontAlignY=40&color=gradient&fontSize=35)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=The%20Space%20of%20Jiyun&fontAlign=50&fontAlignY=40&color=gradient&fontSize=35)
 
 # 👋 자기소개
 안녕하세요, 신입 개발자 **한지윤**입니다.  
