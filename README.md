@@ -1,4 +1,7 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=The%20Space%20of%20Jiyun&fontAlign=50&fontAlignY=40&color=gradient&fontSize=35)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=The%20Space%20of%20Jiyun&textBg=false&animation=fadeIn&reversal=false&section=header&fontAlignY=50&fontSize=45&fontColor=FFFFFF&descAlign=48" width="100%" />
+</p>
+
 
 # 👋 자기소개
 안녕하세요, 신입 개발자 **한지윤**입니다.  
