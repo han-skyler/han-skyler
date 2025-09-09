@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=The%20Space%20of%20Jiyoon&fontAlign=50&fontAlignY=40&color=gradient&fontSize=35)
+
 # 👋 자기소개
 안녕하세요, 신입 개발자 **한지윤**입니다.  
 저는 **정보통신공학**을 전공하고, **AI·영상처리·임베디드 시스템**에 열정을 가진 개발자입니다.  
