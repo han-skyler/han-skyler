@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=The%20Space%20of%20Jiyun&textBg=false&animation=fadeIn&reversal=false&section=header&fontAlignY=50&fontSize=45&fontColor=FFFFFF&descAlign=48" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=The%20Space%20of%20Jiyun&fontSize=45&fontColor=FFFFFF" width="100%" />
 </p>
 
 
